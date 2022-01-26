@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Jason 👋</h1>
-<h3 align="center">I'm a Principal Engineer <a href="https://proofpoint.com">@Proofpoint</a>. Husband to the incredibly talented <a href="https://twitter.com/AshleyS_Ford">@AshleyS_Ford</a>. I occasionally write ugly Python & PowerShell.</h3>
+<h3 align="center">I'm a Principal Engineer at <a href="https://proofpoint.com">Proofpoint</a>. Husband to the incredibly talented <a href="https://twitter.com/AshleyS_Ford">@AshleyS_Ford</a>. I occasionally write ugly Python & PowerShell.</h3>
 <br>
 
 ---
@@ -18,6 +18,8 @@
 <h2 align="center">Languages & Tools</h3>
 </p>
 <p align="center">
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/Powershell_256.png" alt="PowerShell" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
