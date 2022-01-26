@@ -1,6 +1,5 @@
 <h2 align="center">Hey there, I'm Jason 👋</h2>
 <h3 align="center">I'm a Principal Engineer at <a href="https://proofpoint.com">Proofpoint</a>. 
-<br>Husband to the incredibly talented <a href="https://twitter.com/AshleyS_Ford">@AshleyS_Ford</a>.
 <br>I occasionally write ugly Python & PowerShell.</h3>
 <br>
 
