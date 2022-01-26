@@ -4,9 +4,6 @@
 <br>I occasionally write ugly Python & PowerShell.</h3>
 <br>
 
----
-
-<br>
 <h2 align="center">Social</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/jasonsford/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,7 +11,7 @@
  </p>
  <br>
 
----
+
 
 <p>
 <h2 align="center">Languages & Tools</h3>
