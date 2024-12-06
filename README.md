@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm Jason 👋</h2>
-<h3 align="center">I'm a Research Engineer at <a href="https://proofpoint.com">Proofpoint</a> and an Applied Computer Science student studying Cybersecurity at <a href="https://sc.edu/">The University of South Carolina</a>.
+<h3 align="center">I'm a Principal Research Engineer at <a href="https://proofpoint.com">Proofpoint</a> and an Applied Computer Science student studying Cybersecurity at <a href="https://sc.edu/">The University of South Carolina</a>.
 <br>I'm interested in building security tools and have experience writing Java, PowerShell, and Python.
 <br>I'm currently learning about machine learning and applications for enhancing detection of malware across different channels.
 
