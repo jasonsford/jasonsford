@@ -6,7 +6,6 @@
 <h2 align="center">Connect With Me And My Work</h2>
 <p align="center"><a href="http://www.jasonsford.com">My Personal Profile</a></p>
 <p align="center"><a href="https://www.researchgate.net/profile/Jason-Ford-6">Read my research on ResearchGate</a></p>
-<p align="center"<a href="https://www.linkedin.com/in/jasonsford/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 <p>
 <h2 align="center">Languages & Tools</h3>
