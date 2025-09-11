@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm Jason 👋</h2>
-<h3 align="center">I'm a Principal Research Engineer at <a href="https://proofpoint.com">Proofpoint</a> and a recent graduate of the Applied Computer Science: Cybersecurity program at <a href="https://usca.edu/">The University of South Carolina Aiken</a>.
+<h3 align="center">I'm a Principal Research Engineer at <a href="https://proofpoint.com">Proofpoint</a> and a graduate of the Applied Computer Science: Cybersecurity program at <a href="https://usca.edu/">The University of South Carolina Aiken</a>. I'm currently studying Computer Engineering at <a href="https://colostate.edu">Colorado State University</a>.
 <br>I'm interested in conducting research related to machine learning and building security tools. I have experience writing Java, PowerShell, and Python.
 
 <h2 align="center">Connect With Me And My Work</h2>
