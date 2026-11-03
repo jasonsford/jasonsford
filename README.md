@@ -28,7 +28,7 @@
 
 ### 🛠️ Languages & Tools
 
-While my systems background includes enterprise engineering with Java and PowerShell, my current production, research, and infrastructure work is built natively on Linux, optimized for NVIDIA hardware and Python.
+My systems background includes enterprise engineering with Java and PowerShell. My current research and infrastructure work is built natively on Linux, optimized for NVIDIA hardware and Python.
 
 <p align="center">
   <!-- Core ML, Language & Ops Stack -->
@@ -45,4 +45,4 @@ While my systems background includes enterprise engineering with Java and PowerS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
 </p>
 
-**Deployment, Serving & Hardware:** NVIDIA CUDA • vLLM • llama.cpp
+**Deployment, Serving & Hardware:** NVIDIA CUDA • llama.cpp
