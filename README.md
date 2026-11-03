@@ -22,7 +22,7 @@
 
 * **ML for Cyber Defense:** Training neural network architectures to identify subtle network traffic anomalies and threat vectors that traditional signatures miss.
 * **Open-Source Tooling:** Developing robust, high-throughput threat intelligence collectors and defensive utilities for the security community.
-* **Computer Infrastructure:** Designing and managing custom multi-GPU NVIDIA environments to support local model training and deployment utilizing vLLM and llama.cpp.
+* **Computer Infrastructure:** Designing and managing custom multi-GPU NVIDIA environments to support local models using llama.cpp.
 
 <hr>
 
